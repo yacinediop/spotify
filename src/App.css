@@ -2,6 +2,7 @@
   text-align: center;
 }
 
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -12,7 +13,15 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.side{
+  z-index: 99;
+}
+.frero{
+  background: linear-gradient(179.94deg, #1F1F1F 8% , #111111 41.11% , #111111 99.95%)
+}
+.ntr{
+  background: #161616 ;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
